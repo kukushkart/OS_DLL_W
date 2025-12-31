@@ -1,4 +1,5 @@
-﻿#include <iostream>
+//testDll
+#include <iostream>
 #include <Vector.h>
 #include <cmath>
 
@@ -38,4 +39,5 @@ int main() {
         deleteVector(v6);
 
     return 0;
+
 }
